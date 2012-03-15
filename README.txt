@@ -15,7 +15,25 @@ Consider the following text from J.D. Salinger’s The Catcher in the Rye:
 
 
 The challenge is parse this text and print out each word followed by the number of times it appears in the passage, like this sample:
-anyway=1 i=8 keep=1 picturing=1 all=5 these=1 little=2 kids=2 playing=1 some=1 game=1 in=2 this=1 big=2 field=1 of=3 rye=2 and=6 ...
+
+anyway=1 
+i=8 
+keep=1 
+picturing=1 
+all=5 
+these=1 
+little=2 
+kids=2 
+playing=1 
+some=1 
+game=1 
+in=2 
+this=1 
+big=2 
+field=1 
+of=3 
+rye=2 
+and=6 ...
 
 
 
